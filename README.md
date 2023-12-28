@@ -11,6 +11,7 @@ I'm on a mission to turn coffee into code and dreams into applications. As a pas
 
 - **Languages:** JavaScript, TypeScript, Java
 - **Frameworks:** React, Spring Boot
+- **Runtime Environment** Node.js
 - **Tools:** Git, VS Code, Docker
 - **Database:** PostgreSQL, MongoDB
 
