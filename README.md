@@ -9,9 +9,9 @@ I'm on a mission to turn coffee into code and dreams into applications. As a pas
 
 ### 💻 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Java
+- **Languages:** JavaScript, TypeScript
 - **Frameworks:** React, Spring Boot
-- **Runtime Environment:** Node.js
+- **Runtime Environment:** Node.js, Bun
 - **Tools:** Git, VS Code, Docker
 - **Database:** PostgreSQL, MongoDB
 
