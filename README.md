@@ -5,7 +5,7 @@ I'm on a mission to turn coffee into code and dreams into applications. As a pas
 
 ## About Me
 
-- 👩‍💻 Full Stack Engineer
+- 🍀 Full Stack Engineer
 
 ### 💻 Tech Stack
 
